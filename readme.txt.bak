@@ -1,0 +1,5 @@
+Le spawn des bricks est a 40 seconde, si jamais c'est trop dur terminer tu 
+peux seulement changer la variable dans la class brick
+
+Lorsque la ball touche plus sur les cote de la paddle elle par de la direction de ce cote
+
